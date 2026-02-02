@@ -1,0 +1,8 @@
+- National Scholarship, Southeast University, 2023 & 2024
+- Best Performance Award, School Level, 2024
+- First-Class Academic Scholarship, Southeast University, 2024
+- Second-Class Academic Scholarship, College Level, 2024 (Top 2%)
+- First-Class Academic Scholarship, School Level, 2024 (Top 2%)
+- Third-Class Academic Scholarship, Southeast University, 2023
+- First Prize, College Level Competition, 2023
+- Outstanding Graduate Thesis Award, 2024 (Best Performance)
