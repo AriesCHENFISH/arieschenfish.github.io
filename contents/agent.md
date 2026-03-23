@@ -6,9 +6,6 @@ Kimi Code CLI - Flow Skill 运行机制与调试分析指南
 flowchart TD
     BEGIN[BEGIN] --> Task1
     
-    Task1[请你使用工具获取当前的系统时间] --> Dec1
-    
-    Dec1[请判断当前的'分钟'数是奇数还是偶数？]
     Dec1 -- 奇数 --> Task2
     Dec1 -- 偶数 --> Task3
     
